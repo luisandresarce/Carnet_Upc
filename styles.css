@@ -77,7 +77,7 @@ body {
     font-size: 30px;
     color: #333;
     position: absolute;
-    top: 120px;
+    top: 90px;
     left: 150px;
     z-index: 15; /* Mayor z-index para estar por encima del fondo */
 }
